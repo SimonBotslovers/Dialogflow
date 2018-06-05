@@ -1,0 +1,10 @@
+{
+  "facebook": {
+    "attachment": {
+      "type": "video",
+      "payload": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/botslovers--assistant.appspot.com/o/Audio%20Demo%20Iberostar%205.mp4?alt=media&token=3458bfa5-4eae-4703-a370-49e57c9397d3"
+      }
+    }
+  }
+}
